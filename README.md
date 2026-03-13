@@ -6,14 +6,12 @@ Desarrollador en formación apasionado por la infraestructura, el mundo de los s
 
 ### 🛠️ Mi Stack Tecnológico
 
-<p align="left">
-  <img src="https://img.shields.io" alt="Linux" />
-  <img src="https://img.shields.io" alt="Fedora" />
-  <img src="https://img.shields.io" alt="Docker" />
-  <img src="https://img.shields.io" alt="Python" />
-  <img src="https://img.shields.io" alt="MySQL" />
-  <img src="https://img.shields.io" alt="Nmap" />
-</p>
+*   **🐧 Sistema Operativo:** Fedora 43 (Uso diario y laboratorio principal)
+*   **🐳 Contenedores:** Docker (Despliegue de servicios y bases de datos)
+*   **🐍 Programación:** Python & Bash Scripting
+*   **🗄️ Bases de Datos:** MySQL (Administración y configuración remota)
+*   **🛡️ Seguridad:** Nmap (Escaneo de redes) y auditoría en entornos controlados
+*   **🖥️ Virtualización:** QEMU/KVM para laboratorios de servidores
 
 ---
 

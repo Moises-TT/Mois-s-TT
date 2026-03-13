@@ -6,12 +6,14 @@ Desarrollador en formación apasionado por la infraestructura, el mundo de los s
 
 ### 🛠️ Mi Stack Tecnológico
 
-![Linux](https://img.shields.io)
-![Fedora](https://img.shields.io)
-![Docker](https://img.shields.io)
-![Python](https://img.shields.io)
-![MySQL](https://img.shields.io)
-![Nmap](https://img.shields.io)
+<p align="left">
+  <img src="https://img.shields.io" alt="Linux" />
+  <img src="https://img.shields.io" alt="Fedora" />
+  <img src="https://img.shields.io" alt="Docker" />
+  <img src="https://img.shields.io" alt="Python" />
+  <img src="https://img.shields.io" alt="MySQL" />
+  <img src="https://img.shields.io" alt="Nmap" />
+</p>
 
 ---
 

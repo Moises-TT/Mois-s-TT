@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy MOISES DAVID MAGALLANES CARMONA  👋
 
 Desarrollador en formación apasionado por la infraestructura, el mundo de los servidores y la ciberseguridad. Mi centro de operaciones es **Fedora 43**, donde paso la mayor parte del tiempo automatizando procesos desde la terminal.
 
@@ -43,5 +43,5 @@ Actualmente me enfoco en el aprendizaje práctico "rompiendo" y construyendo cos
 ### 📫 ¿Hablamos?
 ¡Echa un vistazo a mis repositorios! Si te interesa colaborar o simplemente charlar de tecnología, puedes escribirme:
 
-[![WhatsApp](https://img.shields.io)](https://wa.me)
+number:  +573054413316
     
